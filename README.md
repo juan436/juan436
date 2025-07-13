@@ -61,31 +61,12 @@
   <img src="https://github-profile-trophy.vercel.app/?username=juan436&theme=radical&no-frame=true&row=1&column=6" alt="Trofeos de GitHub" />
 </div>
 
-## 🎯 Mis Repositorios
-
-<div align="center">
-  
-<!-- Repositorios automáticos - se actualizan dinámicamente -->
-<a href="https://github.com/juan436?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=juan436&repo=portfolio&theme=radical&hide_border=true" alt="Portfolio" />
-</a>
-
-</div>
-
 ## 📈 Todos mis Proyectos
 
 <div align="center">
 
-<!-- Widget que muestra todos los repositorios públicos -->
 [![Repositorios](https://img.shields.io/badge/Ver_Todos_Mis_Proyectos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juan436?tab=repositories)
 
-</div>
-
-### 🔥 Proyectos Destacados Automáticos
-
-<!-- Este widget muestra automáticamente tus repositorios más populares -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=juan436&repo=&theme=radical&hide_border=true&show_owner=true" alt="Proyecto Destacado" />
 </div>
 
 ## 📈 Actividad de Contribución
@@ -108,7 +89,6 @@
 
 <div align="center">
   
-<!-- Muestra estadísticas de todos tus repositorios -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juan436&theme=radical" alt="Resumen del perfil" />
 
 </div>
@@ -145,7 +125,6 @@
   <h3>💻 ¡Gracias por visitar mi perfil! 💻</h3>
   <p>⭐ ¡No olvides dar estrella a los repositorios que te gusten! ⭐</p>
   
-  <!-- Botón para seguir -->
   <a href="https://github.com/juan436">
     <img src="https://img.shields.io/github/followers/juan436?label=Sígueme&style=social" alt="Seguir en GitHub" />
   </a>
