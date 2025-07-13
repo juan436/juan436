@@ -126,6 +126,6 @@
   <p>⭐ ¡No olvides dar estrella a los repositorios que te gusten! ⭐</p>
   
   <a href="https://github.com/juan436">
-    <img src="https://img.shields.io/github/followers/juan436?label=Sígueme&style=social" alt="Seguir en GitHub" />
+    👤 <strong>Sígueme en GitHub</strong> | 🌟 <strong>Dale estrella a mis repos</strong>
   </a>
 </div>
