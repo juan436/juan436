@@ -1,37 +1,104 @@
-# Hi, I'm Juan Villegas 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0EA5E9&height=200&section=header&text=Juan%20Villegas&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Solutions%20Architect%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+</p>
 
-Full Stack Developer with a Telematics Engineering background. I build complete systems — frontend, backend, database, and infrastructure — and stay on to run them in production.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1200&color=2563EB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Solutions+Architect;AI+%26+Automation+Specialist;Telematics+Engineer" alt="Typing SVG" />
+</p>
 
-## What I work on
+I build complete systems — frontend, backend, database, and infrastructure — and stay on to run them in production. Before writing code, I find out what process is actually costing the business time or money; the technical solution follows from there.
 
-- End-to-end business systems: e-commerce, SaaS, CRM, healthcare/admin platforms
-- AI integrated into production pipelines: document processing, conversational agents with function calling
-- Process automation with n8n
-- Infrastructure: Docker, Traefik, Linux, self-hosted deployments
+📍 Caracas, Venezuela (remote) · 📫 juancvillefer@gmail.com · 🌐 [jevy.dev](https://jevy.dev)
 
-## Some of what I've built
+---
 
-- **Invoicing automation (healthcare)** — two-step AI pipeline that reads clinic invoices in multiple formats and translates them into the tax schema required by the electronic billing provider, with an audit layer validating totals before issuing.
-- **Catalog sync (e-commerce, Madrid)** — microservice that keeps stock, price, and availability in sync with an external supplier, with a custom pricing engine and AI-generated descriptions.
-- **KissthePlan** — collaborative wedding-planning SaaS with real-time multi-user editing.
-- **SpaceShare** — storage rental marketplace with hexagonal architecture, Wompi payment integration (card + 3D Secure), and hybrid online/offline repositories. Built for clients in El Salvador and Panama.
-- **Audita** — multi-tenant SaaS for audit firms, dynamic document generation with role hierarchy.
-- **Medical appointment system** — scheduling platform for doctors, Next.js frontend with NestJS backend (Clean Architecture).
+### What I work on
 
-Full detail and screenshots: [jevy.dev](https://jevy.dev)
+- 🧱 End-to-end business systems — e-commerce, SaaS, CRM, healthcare/admin platforms
+- 🤖 AI integrated into production pipelines — document processing, conversational agents with function calling
+- ⚙️ Process automation with n8n
+- 🐳 Infrastructure — Docker, Traefik, Linux, self-hosted deployments
 
-## Stack
+---
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+### What I've built
 
-## Let's talk
+<details>
+<summary><b>🏥 Invoicing automation</b> — AI pipeline for a healthcare client</summary>
+<br>
+Two-step AI pipeline that reads clinic invoices in multiple formats and translates them into the tax schema required by the electronic billing provider. An audit layer validates totals before issuing, and each tax series resolves with its own strategy, so adding a new one doesn't affect the rest.
+</details>
 
-[Portfolio](https://jevy.dev) · [LinkedIn](https://linkedin.com/in/juan-villegas-aaa05b20a) · juancvillefer@gmail.com
+<details>
+<summary><b>🔧 Catalog sync</b> — hardware e-commerce store, Madrid</summary>
+<br>
+Microservice that keeps stock, price, and availability in sync with an external supplier and publishes them to the store, with a custom pricing engine, capped retries, and AI-generated product descriptions. Runs unattended and reports via Telegram.
+</details>
+
+<details>
+<summary><b>💍 KissthePlan</b> — collaborative wedding-planning SaaS (Spain)</summary>
+<br>
+Real-time multi-user editing over the same wedding: guests, budget, seating chart, and a public wedding page. Shared access model instead of separate disconnected accounts.
+</details>
+
+<details>
+<summary><b>📦 SpaceShare</b> — storage rental marketplace (El Salvador / Panama)</summary>
+<br>
+Hexagonal architecture reused as a portable template, Wompi payment integration (card + 3D Secure — the direct-charge flow sends no webhook at all, confirmed debugging in production), and hybrid online/offline repositories. Code: <a href="https://github.com/juan436/space-share-front">space-share-front</a>.
+</details>
+
+<details>
+<summary><b>📊 Audita</b> — multi-tenant SaaS for audit firms (Guatemala)</summary>
+<br>
+Role hierarchy across tenants, dynamic document generation (Word/Excel) with business rules, automated backups.
+</details
+
+<details>
+<summary><b>🗓️ Medical appointment system</b> — scheduling platform for doctors</summary>
+<br>
+Next.js frontend with a NestJS backend (Clean Architecture).
+</details>
+
+---
+
+### Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,nestjs,react,nextjs,python,django,postgres,mongodb,docker,git,figma" />
+</p>
+</p>
+
+<p align="center">
+  <a href="https://jevy.dev"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/juan-villegas-aaa05b20a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:juancvillefer@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+Qué cambió respecto a la versión anterior:
+- Cabecera con degradado animado + tu nombre + "Solutions Architect | Full Stack Developer" — resuelve lo que hablamos: el título rotativo debajo muestra los 4 (Full Stack, Solutions Architect, AI & Automation, Telematics Engineer) en vez de forzar uno solo.
+- Cada proyecto es desplegable (clic para expandir) — interactivo de verdad, nativo de GitHub, sin librerías.
+- Stack con íconos reales (skillicons.dev) en vez de la fila de badges cuadrados.
+- Tarjetas de estadísticas de vuelta — ahora sí, porque ya no vas a arrastrar PHP/CSS de los repos de práctica que borraste.
+
+Extra opcional — la serpiente que se come tu gráfico de contribuciones
+
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: juan436
+          outputs: dist/github-contribution-grid-snake.svg
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+3. Commit. Se genera solo en unos minutos, en una rama output.
+4. Cuando esté lista, agrega esto donde quieras del README (por ejemplo justo antes del footer):
+<p align="center">
+  <img src="https://raw.githubusercontent.com/juan436/juan436/output/github-contribution-grid-snake.svg" />
+</p>
