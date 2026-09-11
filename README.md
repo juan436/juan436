@@ -51,7 +51,7 @@ Hexagonal architecture reused as a portable template, Wompi payment integration 
 <summary><b>📊 Audita</b> — multi-tenant SaaS for audit firms (Guatemala)</summary>
 <br>
 Role hierarchy across tenants, dynamic document generation (Word/Excel) with business rules, automated backups.
-</details
+</details>
 
 <details>
 <summary><b>🗓️ Medical appointment system</b> — scheduling platform for doctors</summary>
@@ -66,39 +66,16 @@ Next.js frontend with a NestJS backend (Clean Architecture).
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,nestjs,react,nextjs,python,django,postgres,mongodb,docker,git,figma" />
 </p>
+
+---
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=juan436&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juan436&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
   <a href="https://jevy.dev"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=firefox&logoColor=white"/></a>
   <a href="https://linkedin.com/in/juan-villegas-aaa05b20a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:juancvillefer@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
-Qué cambió respecto a la versión anterior:
-- Cabecera con degradado animado + tu nombre + "Solutions Architect | Full Stack Developer" — resuelve lo que hablamos: el título rotativo debajo muestra los 4 (Full Stack, Solutions Architect, AI & Automation, Telematics Engineer) en vez de forzar uno solo.
-- Cada proyecto es desplegable (clic para expandir) — interactivo de verdad, nativo de GitHub, sin librerías.
-- Stack con íconos reales (skillicons.dev) en vez de la fila de badges cuadrados.
-- Tarjetas de estadísticas de vuelta — ahora sí, porque ya no vas a arrastrar PHP/CSS de los repos de práctica que borraste.
-
-Extra opcional — la serpiente que se come tu gráfico de contribuciones
-
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: juan436
-          outputs: dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-3. Commit. Se genera solo en unos minutos, en una rama output.
-4. Cuando esté lista, agrega esto donde quieras del README (por ejemplo justo antes del footer):
-<p align="center">
-  <img src="https://raw.githubusercontent.com/juan436/juan436/output/github-contribution-grid-snake.svg" />
 </p>
