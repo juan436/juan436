@@ -70,11 +70,6 @@ Next.js frontend with a NestJS backend (Clean Architecture).
 ---
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=juan436&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juan436&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
   <a href="https://jevy.dev"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=firefox&logoColor=white"/></a>
   <a href="https://linkedin.com/in/juan-villegas-aaa05b20a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:juancvillefer@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
