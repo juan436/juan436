@@ -8,7 +8,7 @@
 
 I build complete systems — frontend, backend, database, and infrastructure — and stay on to run them in production. Before writing code, I find out what process is actually costing the business time or money; the technical solution follows from there.
 
-📍 Caracas, Venezuela (remote) · 📫 juancvillefer@gmail.com · 🌐 [jevy.dev](https://jevy.dev)
+📍 Barquisimeto, Venezuela (remote) · 📫 juancvillefer@gmail.com · 🌐 [jevy.dev](https://jevy.dev)
 
 ---
 
